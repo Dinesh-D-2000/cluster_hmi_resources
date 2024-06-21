@@ -1,0 +1,4 @@
+include README.md
+recursive-include test_resources *
+recursive-include drivers *
+recursive-include webpage *
