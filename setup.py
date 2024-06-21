@@ -6,7 +6,7 @@ setup(
     description='Resources for automation testing of digital instrument clusters.',
     author='Dinesh-D-2000',
     author_email='dineshdeena488@gmail.com',
-    url="https://github.com/Dinesh-D-2000/cluster_hmi_resources",
-    packages=find_packages(include=["drivers.*", "test_resources.*","webpage.*"]),
+        url="https://github.com/Dinesh-D-2000/cluster_hmi_resources",
+    packages=find_packages(include=["drivers", "drivers.*", "test_resources", "test_resources.*", "webpage", "webpage.*"]),
     include_package_data=True,
 )
