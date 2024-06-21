@@ -1,0 +1,8 @@
+# Mark all .html files as HTML
+*.html linguist-language=HTML
+
+# Mark all .css files as CSS
+*.css linguist-language=CSS
+
+# Mark all .js files as JavaScript
+*.js linguist-language=JavaScript
